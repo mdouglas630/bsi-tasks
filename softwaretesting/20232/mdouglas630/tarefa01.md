@@ -22,3 +22,7 @@ O Django possui um módulo chamado django.test que fornece várias classes e fun
 
 ## IDE Utilizada no projeto
 O Visual Studio Code, também conhecido como VS Code, é um poderoso e popular editor de código-fonte desenvolvido pela Microsoft. Ele é amplamente utilizado por desenvolvedores de software devido à sua eficiência, versatilidade e extensibilidade. O VS Code oferece uma experiência de programação altamente personalizável, suporte a várias linguagens de programação, integração com Git e uma grande variedade de extensões disponíveis para melhorar a produtividade. Com sua interface limpa e fácil de usar, o VS Code é uma ferramenta essencial para qualquer pessoa que trabalhe com desenvolvimento de software, desde iniciantes até profissionais experientes.
+
+## Tutorial da Stack utilizada
+[Link para o tutorial](https://www.geeksforgeeks.org/django-crud-create-retrieve-update-delete-function-based-views/)
+>Nesse tutorial é mostrado de forma mais simples como é utilizado o models, views, e como é feito um crud de forma simples

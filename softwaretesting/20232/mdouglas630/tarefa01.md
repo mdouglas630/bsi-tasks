@@ -26,3 +26,15 @@ O Visual Studio Code, também conhecido como VS Code, é um poderoso e popular e
 ## Tutorial da Stack utilizada
 [Link para o tutorial](https://www.geeksforgeeks.org/django-crud-create-retrieve-update-delete-function-based-views/)
 >Nesse tutorial é mostrado de forma mais simples como é utilizado o models, views, e como é feito um crud de forma simples
+
+## Mocks Objects em Testes de Unidade
+
+Mocks são utilizados para simular o comportamento de objetos ou componentes externos (como bancos de dados, APIs externas, serviços web, etc.) durante os testes de unidade.
+
+Eles ajudam a isolar o código sendo testado, garantindo que os resultados dos testes dependam apenas do código em questão, não de suas dependências.
+
+Mocks podem ser configurados para retornar valores específicos, lançar exceções ou registrar chamadas de método, permitindo assim que os testes validem o comportamento do código em relação às interações com suas dependências.
+
+Bibliotecas e frameworks de testes geralmente oferecem suporte para criar mocks de maneira fácil e eficiente, tornando o processo de teste mais controlável e preciso.
+
+Em resumo, mocks são ferramentas valiosas para garantir que testes de unidade se concentrem em avaliar o comportamento específico do código que está sendo testado, isolando-o de influências externas, como bancos de dados e serviços externos. Isso ajuda os desenvolvedores a identificar e corrigir problemas de forma mais eficaz, melhorando a qualidade do software.

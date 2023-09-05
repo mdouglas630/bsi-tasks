@@ -19,3 +19,6 @@ Django é um framework Python de alto nível que simplifica o desenvolvimento de
 ### Django.test: Uma Abordagem Integrada
 
 O Django possui um módulo chamado django.test que fornece várias classes e funções para facilitar a escrita e a execução de testes automatizados. Ele segue a filosofia "baterias incluídas" do Django, tornando mais fácil para os desenvolvedores criar testes abrangentes sem depender de bibliotecas externas.
+
+## IDE Utilizada no projeto
+O Visual Studio Code, também conhecido como VS Code, é um poderoso e popular editor de código-fonte desenvolvido pela Microsoft. Ele é amplamente utilizado por desenvolvedores de software devido à sua eficiência, versatilidade e extensibilidade. O VS Code oferece uma experiência de programação altamente personalizável, suporte a várias linguagens de programação, integração com Git e uma grande variedade de extensões disponíveis para melhorar a produtividade. Com sua interface limpa e fácil de usar, o VS Code é uma ferramenta essencial para qualquer pessoa que trabalhe com desenvolvimento de software, desde iniciantes até profissionais experientes.
